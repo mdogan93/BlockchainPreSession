@@ -29,3 +29,15 @@
 	// console will be opened
 	net
 	// you must see peerCount as "1"
+
+### Web3 
+	npm init
+	npm	install	–save	body-parser
+	npm	install	–save	ethereum.js
+	npm	install	–save	express
+	npm	install	–save	web3
+
+
+### Browserify
+	npm install -g browserify
+
